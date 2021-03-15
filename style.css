@@ -1,0 +1,39 @@
+body{
+	background-color: rgb(250, 0, 0);
+}
+
+#box{
+	margin: 100px auto;
+	width: 300px;
+	height: 300px;
+	border: 15px groove yellow;
+	background-color: orange;
+}
+
+button{
+	text-transform: uppercase;
+	border: none;
+	background-color: orange;
+	text-align: center;
+	margin-left: 60px;
+	color: brown;
+	margin-top: 15px;
+}
+
+button:hover{
+	color: white;
+}
+
+#box-in{
+	border:20px groove brown;
+	width: 260px;
+	height: 259px;
+	margin-top: 1px;
+}
+
+p{
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 2em;
+}
